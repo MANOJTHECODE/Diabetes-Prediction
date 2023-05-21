@@ -6,7 +6,7 @@ This project aims to develop a predictive model for diabetes detection using the
 ## explanation of code
 The given code performs the task of predicting diabetes using a support vector machine (SVM) classifier. Let's break down the code into different sections:
 
-Data Collection and Analysis:
+Data Collection and Analysis:-
 
 The code imports necessary libraries such as numpy, pandas, and scikit-learn modules.
 It loads a diabetes dataset from a CSV file and displays the first few rows, last few rows, shape, and statistical summary of the dataset.
